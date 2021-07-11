@@ -1,5 +1,7 @@
 # GTA5_FSR Easy Installer
 Easy installer and updater for [NarutoUA's GTA5_FSR Mod](https://github.com/NarutoUA/gta5_fsr/)
+
+How to use this Mod: [NarutoUA's Guide](https://github.com/NarutoUA/gta5_fsr/blob/master/README.md)
 ## Features
 **Show last version**: Show the most updated version.
 
