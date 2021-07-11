@@ -16,3 +16,6 @@ How to use this Mod (After install):
 **Uninstall**: Completely remove the Mod.
 ## Download
 Download from [releases](https://github.com/Ruan991/GTA5_FSR_Installer/releases) page.
+
+## Video/Using
+[Click here to watch](https://youtu.be/1F6qr4p-8FM)
