@@ -3,7 +3,7 @@ Easy installer and updater for [NarutoUA's GTA5_FSR Mod](https://github.com/Naru
 ## Features
 **Show last version**: Show the most updated version.
 
-**Install/Update**: Download the most updated version automatically.
+**Install/Update**: Download the most updated version.
 
 **Uninstall**: Completely remove the Mod.
 ## Download
